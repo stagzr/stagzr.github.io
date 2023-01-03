@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stagzr.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/stagzr.github.io/static/js/main.c201f95f.js",
-    "static/js/787.2d36fd1a.chunk.js": "/stagzr.github.io/static/js/787.2d36fd1a.chunk.js",
-    "static/media/logo.svg": "/stagzr.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/stagzr.github.io/index.html",
-    "main.073c9b0a.css.map": "/stagzr.github.io/static/css/main.073c9b0a.css.map",
-    "main.c201f95f.js.map": "/stagzr.github.io/static/js/main.c201f95f.js.map",
-    "787.2d36fd1a.chunk.js.map": "/stagzr.github.io/static/js/787.2d36fd1a.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.b60edeb6.js",
+    "static/js/787.2d36fd1a.chunk.js": "/static/js/787.2d36fd1a.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.b60edeb6.js.map": "/static/js/main.b60edeb6.js.map",
+    "787.2d36fd1a.chunk.js.map": "/static/js/787.2d36fd1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c201f95f.js"
+    "static/js/main.b60edeb6.js"
   ]
 }
